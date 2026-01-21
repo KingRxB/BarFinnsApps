@@ -2,7 +2,7 @@
 
 Aplikasi manajemen keuangan pribadi berbasis Flutter dengan backend Google Sheets (via Google Apps Script).
 
-[Screenshot atau Logo akan muncul di sini]
+
 
 ## Fitur
 
